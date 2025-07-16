@@ -1,3 +1,3 @@
-# AADF All Aplication Detail Framework
+# AADF - All Aplication Detail Framework
 
 ## Em produção aguarde...
